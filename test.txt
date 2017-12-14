@@ -1,5 +1,0 @@
-Test for Gogs
-
-Add a new line
-Add another line
-Add the third line
